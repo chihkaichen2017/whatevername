@@ -1,0 +1,91 @@
+/*CSS reset settings here*/
+*{
+ margin: 5px;
+ padding: 0px;
+}
+
+.wrapper{
+  height: 700px;
+  width: 980px;
+  background-color: DarkBlue;
+  display: block;
+
+}
+
+.blue{
+    color: blue;
+}
+
+.white{
+    color: white;
+}
+
+
+.heading {
+  height: 50px;
+  width: 950px;
+  background-color: red;
+  display:inline-block;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
+padding-left: 2px;
+}
+
+.navigation{
+  height: 330px;
+  width: 162px;
+  background-color: CadetBlue;
+  display: inline-block;
+  border-radius: 5px;
+  vertical-align: top;
+  margin-left: 10px;
+}
+
+.naviheading{
+  height: auto;
+}
+
+.navilist{
+    text-align: justify;
+}
+
+.content{
+    height:75%;
+    width:770px;
+    display: inline-block;
+    background-color: DarkGrey;
+    border-radius: 10px;
+    line-height: 15px;
+
+}
+
+
+.content-header{
+
+  display:inline-block;
+
+
+}
+
+.content-descrip{
+
+  display:inline-block;
+
+}
+
+.content-list{
+
+  display:inline-block;
+
+}
+
+.bottomline{
+  height: 50px;
+  width: 955px;
+  background-color: Grey;
+  display:inline-block;
+  border-radius: 10px;
+  margin-top: 20px;
+}
